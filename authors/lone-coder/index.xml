@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lone Coder on johndoe</title>
+    <title>Lone Coder on VK</title>
     <link>http://localhost:1313/authors/lone-coder/</link>
-    <description>Recent content in Lone Coder on johndoe</description>
+    <description>Recent content in Lone Coder on VK</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
@@ -49,6 +49,13 @@
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/mermaid-support/</guid>
       <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.&#xA;flowchart LR&#xD;A --&gt; B&#xD;B --&gt; C&#xD;C --&gt; D&#xD;D --&gt; B&#xD;sequenceDiagram&#xD;participant Alice&#xD;participant Bob&#xD;Alice-&gt;&gt;Bob: Hi Bob&#xD;Bob-&gt;&gt;Alice: Hi Alice&#xD;Find more example on Mermaid-JS website.</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>http://localhost:1313/posts/mermaid-support.pt-br/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mermaid-support.pt-br/</guid>
+      <description>Se quiser usar o Mermaid-JS em sua página. Use o shortcode mermaid em seus conteúdos Markdown.&#xA;flowchart LR&#xD;A --&gt; B&#xD;B --&gt; C&#xD;C --&gt; D&#xD;D --&gt; B&#xD;sequenceDiagram&#xD;participant Alice&#xD;participant Bob&#xD;Alice-&gt;&gt;Bob: Hi Bob&#xD;Bob-&gt;&gt;Alice: Hi Alice&#xD;Entro mais exemplos na página do Mermaid-JS.</description>
     </item>
     <item>
       <title>Emoji Support</title>
