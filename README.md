@@ -1,1 +1,1 @@
-#### Hello World - `Vasudev Koneru`
+#### Hello World
