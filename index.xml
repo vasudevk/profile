@@ -2,39 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://vasu.one/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 01:15:52 +0100</lastBuildDate>
-    <atom:link href="https://vasu.one/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Autores de Hugo</title>
-      <link>https://vasu.one/autores/autores-de-hugo/</link>
-      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>https://vasu.one/autores/autores-de-hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>temas</title>
-      <link>https://vasu.one/categoria/temas/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://vasu.one/categoria/temas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>sintaxe</title>
-      <link>https://vasu.one/categoria/sintaxe/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://vasu.one/categoria/sintaxe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Códigos curtos</title>
-      <link>https://vasu.one/tags/shortcodes/_index.pt-br/</link>
-      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://vasu.one/tags/shortcodes/_index.pt-br/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
